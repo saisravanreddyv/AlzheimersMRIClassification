@@ -24,9 +24,13 @@ GoogLeNet performed best thanks to its Inception blocks that capture features at
 --Key Features--
 
 Custom implementations of ResNet-18, DenseNet, VGG-16, and GoogLeNet
+
 Image preprocessing with normalization and augmentation
+
 Weighted sampling to handle class imbalance
+
 Comprehensive evaluation metrics (accuracy, precision, recall, F1-score)
+
 Visualization of predictions and confusion matrices
 
 --Results--
