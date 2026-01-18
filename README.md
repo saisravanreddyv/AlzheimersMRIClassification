@@ -8,14 +8,18 @@ Alzheimer's disease is a progressive brain disorder that affects memory and cogn
 --Classification Categories--
 
 Non-Demented - No signs of dementia
+
 Very Mild Demented - Early stage with subtle changes
+
 Mild Demented - Noticeable cognitive decline
+
 Moderate Demented - Significant impairment
 
 --Models Implemented--
-We tested four popular CNN architectures:
 
-->Model Test Accuracy:
+We Have tested on four popular CNN architectures:
+
+->The Model's Test Accuracy:
  
  GoogLeNet-->99.21%
  
