@@ -14,12 +14,18 @@ Moderate Demented - Significant impairment
 
 --Models Implemented--
 We tested four popular CNN architectures:
+
 ->Model Test Accuracy:
-GoogLeNet-->99.21%
-ResNet-18-->90.16%
-DenseNet-->84.38%
-VGG-16-->78.36%
-GoogLeNet performed best thanks to its Inception blocks that capture features at multiple scales, making it ideal for detecting subtle differences in medical images.
+ 
+ GoogLeNet-->99.21%
+ 
+ ResNet-18-->90.16%
+ 
+ DenseNet-->84.38%
+ 
+ VGG-16-->78.36%
+ 
+-- GoogLeNet performed best thanks to its Inception blocks that capture features at multiple scales, making it ideal for detecting subtle differences in medical images.
 
 --Key Features--
 
